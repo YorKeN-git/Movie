@@ -1,0 +1,4 @@
+******************* INSTRUCTION : *******************
+
+1) Lancer le fichier "index.html"
+2) Saisir le titre d'un film

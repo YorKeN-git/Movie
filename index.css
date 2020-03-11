@@ -1,0 +1,78 @@
+html {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#titre {
+    background-color: #221f1f;
+    color: #e50914;
+    -webkit-text-stroke: 0.54px #f5f5f1;
+}
+
+hr {
+    background-color: #e50914;
+}
+
+h2 {
+    text-align: right;
+}
+
+#body,
+body {
+    background-color: #383e42;
+    color: #f5f5f1;
+}
+
+footer {
+    text-align: center;
+    background-color: #221f1f;
+    color: #f5f5f1;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.champ {
+    width: 50%;
+    height: 40px;
+}
+
+.resultat {
+    display: inline-block;
+}
+
+.btn-link {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: #e50914;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.poster {
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+
+#taille {
+    margin: 30px;
+    width: 300px;
+    height: 500px;
+}
+
+.info {
+    float: left;
+}
+
+#plot {
+    text-align: justify;
+}
