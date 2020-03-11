@@ -1,5 +1,5 @@
 # Movie
-Program JS with API film 
+Program HTML/CSS/JS with API film 
 
 # How does it work
 1) Search a film
